@@ -1,0 +1,6 @@
+Hung Nguyen 7 8 9
+Hao Le 8 8.5 8
+Ngoc Tran 7.5 8 8
+Hoang Le 9 6.5 8
+Nhu Nguyen 9 9 9
+Hieu Pham 8.5 6.5 10
